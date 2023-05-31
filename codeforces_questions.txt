@@ -1,0 +1,919 @@
+Problem ID: 1837F
+Problem Name: Editorial for Two                    
+
+
+binary search,
+                        data structures,
+                        greedy,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1837/F
+----------------------------------
+Problem ID: 1837E
+Problem Name: Playoff Fixing                    
+
+
+combinatorics,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1837/E
+----------------------------------
+Problem ID: 1837D
+Problem Name: Bracket Coloring                    
+
+
+constructive algorithms,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1837/D
+----------------------------------
+Problem ID: 1837C
+Problem Name: Best Binary String                    
+
+
+constructive algorithms,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1837/C
+----------------------------------
+Problem ID: 1837B
+Problem Name: Comparison String                    
+
+
+greedy
+Problem URL: https://codeforces.com/problemset/problem/1837/B
+----------------------------------
+Problem ID: 1837A
+Problem Name: Grasshopper on a Line                    
+
+
+constructive algorithms,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1837/A
+----------------------------------
+Problem ID: 1833G
+Problem Name: Ksyusha and Chinchilla                    
+
+
+constructive algorithms,
+                        dfs and similar,
+                        dp,
+                        dsu,
+                        greedy,
+                        implementation,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1833/G
+----------------------------------
+Problem ID: 1833F
+Problem Name: Ira and Flamenco                    
+
+
+combinatorics,
+                        constructive algorithms,
+                        data structures,
+                        implementation,
+                        math,
+                        sortings,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1833/F
+----------------------------------
+Problem ID: 1833E
+Problem Name: Round Dance                    
+
+
+dfs and similar,
+                        dsu,
+                        graphs,
+                        shortest paths
+Problem URL: https://codeforces.com/problemset/problem/1833/E
+----------------------------------
+Problem ID: 1833D
+Problem Name: Flipper                    
+
+
+brute force,
+                        constructive algorithms,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1833/D
+----------------------------------
+Problem ID: 1833C
+Problem Name: Vlad Building Beautiful Array                    
+
+
+greedy,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1833/C
+----------------------------------
+Problem ID: 1833B
+Problem Name: Restore the Weather                    
+
+
+greedy,
+                        sortings
+Problem URL: https://codeforces.com/problemset/problem/1833/B
+----------------------------------
+Problem ID: 1833A
+Problem Name: Musical Puzzle                    
+
+
+implementation,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1833/A
+----------------------------------
+Problem ID: 1832F
+Problem Name: Zombies                    
+
+
+binary search,
+                        dp
+Problem URL: https://codeforces.com/problemset/problem/1832/F
+----------------------------------
+Problem ID: 1832E
+Problem Name: Combinatorics Problem                    
+
+
+brute force,
+                        combinatorics,
+                        dp
+Problem URL: https://codeforces.com/problemset/problem/1832/E
+----------------------------------
+Problem ID: 1832D2
+Problem Name: Red-Blue Operations (Hard Version)                    
+
+
+binary search,
+                        constructive algorithms,
+                        greedy,
+                        implementation,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1832/D2
+----------------------------------
+Problem ID: 1832D1
+Problem Name: Red-Blue Operations (Easy Version)                    
+
+
+binary search,
+                        greedy,
+                        implementation,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1832/D1
+----------------------------------
+Problem ID: 1832C
+Problem Name: Contrast Value                    
+
+
+greedy,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1832/C
+----------------------------------
+Problem ID: 1832B
+Problem Name: Maximum Sum                    
+
+
+brute force,
+                        sortings,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1832/B
+----------------------------------
+Problem ID: 1832A
+Problem Name: New Palindrome                    
+
+
+strings
+Problem URL: https://codeforces.com/problemset/problem/1832/A
+----------------------------------
+Problem ID: 1831B
+Problem Name: Array merging                    
+
+
+constructive algorithms,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1831/B
+----------------------------------
+Problem ID: 1831A
+Problem Name: Twin Permutations                    
+
+
+constructive algorithms
+Problem URL: https://codeforces.com/problemset/problem/1831/A
+----------------------------------
+Problem ID: 1830F
+Problem Name: The Third Grace                    
+
+
+data structures,
+                        dp
+Problem URL: https://codeforces.com/problemset/problem/1830/F
+----------------------------------
+Problem ID: 1830E
+Problem Name: Bully Sort                    
+
+
+data structures
+Problem URL: https://codeforces.com/problemset/problem/1830/E
+----------------------------------
+Problem ID: 1830D
+Problem Name: Mex Tree                    
+
+
+brute force,
+                        dp,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1830/D
+----------------------------------
+Problem ID: 1830C
+Problem Name: Hyperregular Bracket Strings                    
+
+
+combinatorics,
+                        hashing,
+                        math,
+                        number theory,
+                        sortings
+Problem URL: https://codeforces.com/problemset/problem/1830/C
+----------------------------------
+Problem ID: 1830B
+Problem Name: The BOSS Can Count Pairs                    
+
+
+brute force,
+                        data structures,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1830/B
+----------------------------------
+Problem ID: 1830A
+Problem Name: Copil Copac Draws Trees                    
+
+
+dfs and similar,
+                        dp,
+                        graphs,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1830/A
+----------------------------------
+Problem ID: 1829H
+Problem Name: Don't Blame Me                    
+
+
+bitmasks,
+                        combinatorics,
+                        dp,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1829/H
+----------------------------------
+Problem ID: 1829G
+Problem Name: Hits Different                    
+
+
+data structures,
+                        dp,
+                        implementation,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1829/G
+----------------------------------
+Problem ID: 1829F
+Problem Name: Forever Winter                    
+
+
+dfs and similar,
+                        graphs,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1829/F
+----------------------------------
+Problem ID: 1829E
+Problem Name: The Lakes                    
+
+
+dfs and similar,
+                        dsu,
+                        graphs,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1829/E
+----------------------------------
+Problem ID: 1829D
+Problem Name: Gold Rush                    
+
+
+brute force,
+                        dfs and similar,
+                        dp,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1829/D
+----------------------------------
+Problem ID: 1829C
+Problem Name: Mr. Perfectly Fine                    
+
+
+bitmasks,
+                        greedy,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1829/C
+----------------------------------
+Problem ID: 1829B
+Problem Name: Blank Space                    
+
+
+implementation
+Problem URL: https://codeforces.com/problemset/problem/1829/B
+----------------------------------
+Problem ID: 1829A
+Problem Name: Love Story                    
+
+
+implementation,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1829/A
+----------------------------------
+Problem ID: 1828B
+Problem Name: Permutation Swap                    
+
+
+math,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1828/B
+----------------------------------
+Problem ID: 1828A
+Problem Name: Divisible Array                    
+
+
+constructive algorithms,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1828/A
+----------------------------------
+Problem ID: 1827F
+Problem Name: Copium Permutation                    
+
+
+constructive algorithms,
+                        data structures,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1827/F
+----------------------------------
+Problem ID: 1827E
+Problem Name: Bus Routes                    
+
+
+binary search,
+                        constructive algorithms,
+                        dfs and similar,
+                        greedy,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1827/E
+----------------------------------
+Problem ID: 1827D
+Problem Name: Two Centroids                    
+
+
+data structures,
+                        dfs and similar,
+                        greedy,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1827/D
+----------------------------------
+Problem ID: 1827C
+Problem Name: Palindrome Partition                    
+
+
+binary search,
+                        brute force,
+                        data structures,
+                        dp,
+                        hashing,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1827/C
+----------------------------------
+Problem ID: 1827B2
+Problem Name: Range Sorting (Hard Version)                    
+
+
+binary search,
+                        data structures,
+                        dp,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1827/B2
+----------------------------------
+Problem ID: 1827B1
+Problem Name: Range Sorting (Easy Version)                    
+
+
+binary search,
+                        dp,
+                        dsu,
+                        greedy,
+                        trees,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1827/B1
+----------------------------------
+Problem ID: 1827A
+Problem Name: Counting Orders                    
+
+
+combinatorics,
+                        math,
+                        sortings,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1827/A
+----------------------------------
+Problem ID: 1826F
+Problem Name: Fading into Fog                    
+
+
+geometry,
+                        interactive,
+                        math,
+                        probabilities
+Problem URL: https://codeforces.com/problemset/problem/1826/F
+----------------------------------
+Problem ID: 1826E
+Problem Name: Walk the Runway                    
+
+
+bitmasks,
+                        brute force,
+                        data structures,
+                        dp,
+                        graphs,
+                        implementation,
+                        sortings
+Problem URL: https://codeforces.com/problemset/problem/1826/E
+----------------------------------
+Problem ID: 1826D
+Problem Name: Running Miles                    
+
+
+brute force,
+                        dp,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1826/D
+----------------------------------
+Problem ID: 1826C
+Problem Name: Dreaming of Freedom                    
+
+
+greedy,
+                        math,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1826/C
+----------------------------------
+Problem ID: 1826B
+Problem Name: Lunatic Never Content                    
+
+
+math,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1826/B
+----------------------------------
+Problem ID: 1826A
+Problem Name: Trust Nobody                    
+
+
+brute force,
+                        greedy,
+                        implementation,
+                        sortings
+Problem URL: https://codeforces.com/problemset/problem/1826/A
+----------------------------------
+Problem ID: 1825B
+Problem Name: LuoTianyi and the Table                    
+
+
+greedy,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1825/B
+----------------------------------
+Problem ID: 1825A
+Problem Name: LuoTianyi and the Palindrome String                    
+
+
+greedy,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1825/A
+----------------------------------
+Problem ID: 1824E
+Problem Name: LuoTianyi and Cartridge                    
+
+
+data structures,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1824/E
+----------------------------------
+Problem ID: 1824D
+Problem Name: LuoTianyi and the Function                    
+
+
+data structures
+Problem URL: https://codeforces.com/problemset/problem/1824/D
+----------------------------------
+Problem ID: 1824C
+Problem Name: LuoTianyi and XOR-Tree                    
+
+
+data structures,
+                        dfs and similar,
+                        dp,
+                        dsu,
+                        greedy,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1824/C
+----------------------------------
+Problem ID: 1824B2
+Problem Name: LuoTianyi and the Floating Islands (Hard Version)                    
+
+
+combinatorics,
+                        dfs and similar,
+                        math,
+                        probabilities,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1824/B2
+----------------------------------
+Problem ID: 1824B1
+Problem Name: LuoTianyi and the Floating Islands (Easy Version)                    
+
+
+combinatorics,
+                        math,
+                        probabilities,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1824/B1
+----------------------------------
+Problem ID: 1824A
+Problem Name: LuoTianyi and the Show                    
+
+
+greedy,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1824/A
+----------------------------------
+Problem ID: 1823F
+Problem Name: Random Walk                    
+
+
+dp,
+                        graphs,
+                        math,
+                        probabilities,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1823/F
+----------------------------------
+Problem ID: 1823E
+Problem Name: Removing Graph                    
+
+
+brute force,
+                        dp,
+                        games,
+                        graphs,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1823/E
+----------------------------------
+Problem ID: 1823D
+Problem Name: Unique Palindromes                    
+
+
+constructive algorithms,
+                        math,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1823/D
+----------------------------------
+Problem ID: 1823C
+Problem Name: Strongly Composite                    
+
+
+greedy,
+                        math,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1823/C
+----------------------------------
+Problem ID: 1823B
+Problem Name: Sort with Step                    
+
+
+brute force,
+                        math,
+                        sortings
+Problem URL: https://codeforces.com/problemset/problem/1823/B
+----------------------------------
+Problem ID: 1823A
+Problem Name: A-characteristic                    
+
+
+combinatorics,
+                        constructive algorithms,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1823/A
+----------------------------------
+Problem ID: 1822G2
+Problem Name: Magic Triples (Hard Version)                    
+
+
+brute force,
+                        data structures,
+                        math,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1822/G2
+----------------------------------
+Problem ID: 1822G1
+Problem Name: Magic Triples (Easy Version)                    
+
+
+brute force,
+                        data structures,
+                        math,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1822/G1
+----------------------------------
+Problem ID: 1822F
+Problem Name: Gardening Friends                    
+
+
+brute force,
+                        dfs and similar,
+                        dp,
+                        graphs,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1822/F
+----------------------------------
+Problem ID: 1822E
+Problem Name: Making Anti-Palindromes                    
+
+
+greedy,
+                        math,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1822/E
+----------------------------------
+Problem ID: 1822D
+Problem Name: Super-Permutation                    
+
+
+constructive algorithms,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1822/D
+----------------------------------
+Problem ID: 1822C
+Problem Name: Bun Lover                    
+
+
+math
+Problem URL: https://codeforces.com/problemset/problem/1822/C
+----------------------------------
+Problem ID: 1822B
+Problem Name: Karina and Array                    
+
+
+greedy,
+                        math,
+                        sortings
+Problem URL: https://codeforces.com/problemset/problem/1822/B
+----------------------------------
+Problem ID: 1822A
+Problem Name: TubeTube Feed                    
+
+
+brute force,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1822/A
+----------------------------------
+Problem ID: 1821F
+Problem Name: Timber                    
+
+
+combinatorics,
+                        dp,
+                        fft,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1821/F
+----------------------------------
+Problem ID: 1821E
+Problem Name: Rearrange Brackets                    
+
+
+brute force,
+                        dp,
+                        greedy,
+                        sortings,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1821/E
+----------------------------------
+Problem ID: 1821D
+Problem Name: Black Cells                    
+
+
+binary search,
+                        brute force,
+                        greedy,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1821/D
+----------------------------------
+Problem ID: 1821C
+Problem Name: Tear It Apart                    
+
+
+brute force,
+                        implementation,
+                        math,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1821/C
+----------------------------------
+Problem ID: 1821B
+Problem Name: Sort the Subarray                    
+
+
+brute force,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1821/B
+----------------------------------
+Problem ID: 1821A
+Problem Name: Matching                    
+
+
+combinatorics,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1821/A
+----------------------------------
+Problem ID: 1820B
+Problem Name: JoJo's Incredible Adventures                    
+
+
+math,
+                        strings,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1820/B
+----------------------------------
+Problem ID: 1820A
+Problem Name: Yura's New Name                    
+
+
+implementation,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1820/A
+----------------------------------
+Problem ID: 1819F
+Problem Name: Willy-nilly, Crack, Into Release!                    
+
+
+data structures,
+                        dp
+Problem URL: https://codeforces.com/problemset/problem/1819/F
+----------------------------------
+Problem ID: 1819E
+Problem Name: Roads in E City                    
+
+
+interactive,
+                        math,
+                        probabilities,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1819/E
+----------------------------------
+Problem ID: 1819D
+Problem Name: Misha and Apples                    
+
+
+brute force,
+                        data structures,
+                        dp,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1819/D
+----------------------------------
+Problem ID: 1819C
+Problem Name: The Fox and the Complete Tree Traversal                    
+
+
+constructive algorithms,
+                        dp,
+                        implementation,
+                        math,
+                        trees
+Problem URL: https://codeforces.com/problemset/problem/1819/C
+----------------------------------
+Problem ID: 1819B
+Problem Name: The Butcher                    
+
+
+geometry,
+                        greedy,
+                        implementation,
+                        sortings,
+                        two pointers
+Problem URL: https://codeforces.com/problemset/problem/1819/B
+----------------------------------
+Problem ID: 1819A
+Problem Name: Constructive Problem                    
+
+
+brute force,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1819/A
+----------------------------------
+Problem ID: 1818B
+Problem Name: Indivisible                    
+
+
+constructive algorithms
+Problem URL: https://codeforces.com/problemset/problem/1818/B
+----------------------------------
+Problem ID: 1818A
+Problem Name: Politics                    
+
+
+greedy,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1818/A
+----------------------------------
+Problem ID: 1817F
+Problem Name: Entangled Substrings                    
+
+
+string suffix structures,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1817/F
+----------------------------------
+Problem ID: 1817E
+Problem Name: Half-sum                    
+
+
+brute force,
+                        divide and conquer,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1817/E
+----------------------------------
+Problem ID: 1817D
+Problem Name: Toy Machine                    
+
+
+constructive algorithms,
+                        games,
+                        implementation
+Problem URL: https://codeforces.com/problemset/problem/1817/D
+----------------------------------
+Problem ID: 1817C
+Problem Name: Similar Polynomials                    
+
+
+combinatorics,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1817/C
+----------------------------------
+Problem ID: 1817B
+Problem Name: Fish Graph                    
+
+
+brute force,
+                        constructive algorithms,
+                        dfs and similar,
+                        graphs
+Problem URL: https://codeforces.com/problemset/problem/1817/B
+----------------------------------
+Problem ID: 1817A
+Problem Name: Almost Increasing Subsequence                    
+
+
+binary search,
+                        data structures,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1817/A
+----------------------------------
+Problem ID: 1816B
+Problem Name: Grid Reconstruction                    
+
+
+constructive algorithms,
+                        greedy
+Problem URL: https://codeforces.com/problemset/problem/1816/B
+----------------------------------
+Problem ID: 1816A
+Problem Name: Ian Visits Mary                    
+
+
+constructive algorithms,
+                        geometry,
+                        number theory
+Problem URL: https://codeforces.com/problemset/problem/1816/A
+----------------------------------
+Problem ID: 1815F
+Problem Name: OH NO1 (-2-3-4)                    
+
+
+constructive algorithms,
+                        graphs,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1815/F
+----------------------------------
+Problem ID: 1815E
+Problem Name: Bosco and Particle                    
+
+
+dp,
+                        math,
+                        number theory,
+                        strings
+Problem URL: https://codeforces.com/problemset/problem/1815/E
+----------------------------------
+Problem ID: 1815D
+Problem Name: XOR Counting                    
+
+
+bitmasks,
+                        combinatorics,
+                        dp,
+                        math
+Problem URL: https://codeforces.com/problemset/problem/1815/D
+----------------------------------
